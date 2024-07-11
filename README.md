@@ -13,4 +13,4 @@ What is the largest prime factor of the number __600851475143?__
 
 4. [Largest Palindrome Product](https://github.com/papilo-cloud/Project_Euler/blob/main/largest_palindrome_product.py) A palindromic number reads the same both ways. The largest palindrome made from the product of two __2__-digit numbers is __9009__ = __91__ x __99__.
 Find the largest palindrome made from the product of two 
--digit numbers.
+__3__-digit numbers.
