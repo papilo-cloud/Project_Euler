@@ -15,5 +15,5 @@ def largest_prime_factor(number):
             if is_prime(index):
                 print(index)
                 break
-largest_prime_factor(600851475143)
+largest_prime_factor(13195)
 
