@@ -18,3 +18,8 @@ __3__-digit numbers.
 5. [Smallest Multiple](https://github.com/papilo-cloud/Project_Euler/blob/main/src/smallest_multiple.py) __2520__ is the smallest number that can be divided by each of the numbers from __1__ to __10__
 without any remainder.
 What is the smallest positive number that is __evenly divisible__ by all of the numbers from __1__ to __20__ ?
+
+6. []() The sum of the squares of the first ten natural numbers is, __1<sup>2</sup> + 2<sup>2</sup> + ... + 10<sup>2</sup> = 385__
+The square of the sum of the first ten natural numbers is, __(1 + 2 + ... + 10)<sup>2</sup> = 55<sup>2</sup> = 3025__
+Hence the difference between the sum of the squares of the first ten natural numbers and the square of the sum is . __3025 - 385 = 2640__
+Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.
