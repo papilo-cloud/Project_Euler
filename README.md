@@ -24,5 +24,5 @@ The square of the sum of the first ten natural numbers is, __(1 + 2 + ... + 10)<
 Hence the difference between the sum of the squares of the first ten natural numbers and the square of the sum is . __3025 - 385 = 2640__
 Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.
 
-7. [10001st prime](https://github.com/papilo-cloud/Project_Euler/blob/main/src/nth_prime.py) By listing the first six prime numbers: __2, 3, 5, 7, 11,__ and __13__, we can see that the __6__th prime is __13__.
-What is the __10001__st prime number?
+7. [10001st prime](https://github.com/papilo-cloud/Project_Euler/blob/main/src/nth_prime.py) By listing the first six prime numbers: __2, 3, 5, 7, 11,__ and __13__, we can see that the __6__ th prime is __13__.
+What is the __10001__ st prime number?
