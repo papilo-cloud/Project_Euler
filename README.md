@@ -27,7 +27,7 @@ Find the difference between the sum of the squares of the first one hundred natu
 7. [10001st prime](https://github.com/papilo-cloud/Project_Euler/blob/main/src/nth_prime.py) By listing the first six prime numbers: __2, 3, 5, 7, 11,__ and __13__, we can see that the __6__ th prime is __13__.
 What is the __10001__ st prime number?
 
-8. [Largest Product in a Series]() The four adjacent digits in the __1000__-digit number that have the greatest product are __9__ x __9__ x __8__ x __9__ = __5832__.
+8. [Largest Product in a Series](https://github.com/papilo-cloud/Project_Euler/blob/main/src/largest_product_in_a_series.py) The four adjacent digits in the __1000__-digit number that have the greatest product are __9__ x __9__ x __8__ x __9__ = __5832__.
 
 73167176531330624919225119674426574742355349194934
 96983520312774506326239578318016984801869478851843
@@ -50,5 +50,4 @@ What is the __10001__ st prime number?
 05886116467109405077541002256983155200055935729725
 71636269561882670428252483600823257530420752963450
 
-Find the thirteen adjacent digits in the 
-__1000__-digit number that have the greatest product. What is the value of this product?
+Find the thirteen adjacent digits in the __1000__-digit number that have the greatest product. What is the value of this product?
