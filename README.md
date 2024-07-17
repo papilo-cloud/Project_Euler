@@ -51,3 +51,12 @@ What is the __10001__ st prime number?
 71636269561882670428252483600823257530420752963450
 
 Find the thirteen adjacent digits in the __1000__-digit number that have the greatest product. What is the value of this product?
+
+9. [Special Pythagorean Triplet](https://github.com/papilo-cloud/Project_Euler/blob/main/src/pythagoran_triplet.py) A Pythagorean triplet is a set of three natural numbers, __*a < b < c*__, for which,
+                                                 __*a<sup>2</sup> + b<sup>2</sup> = c<sup>2</sup>*.__
+For example, __3<sup>2</sup> + 4<sup>2</sup> = 9 + 16 = 5<sup>2</sup>*.__.
+There exists exactly one Pythagorean triplet for which __a + b + c = 1000__.
+Find the product __*abc*__.
+
+10. [Summation of Primes](https://github.com/papilo-cloud/Project_Euler/blob/main/src/summation_of_primes.py) The sum of the primes below __10__ is __2 + 3 + 5 + 7 = 17__.
+Find the sum of all the primes below two million.
