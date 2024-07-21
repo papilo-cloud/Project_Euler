@@ -93,13 +93,13 @@ Find the product __*abc*__.
             __1, 3, 6, 10, 16, 15, 21, 28, 36, 45, 55, ...__
 
     Let us list the factors of the first seven triangle numbers:
-            __1: 1__
-            __3: 1, 3__
-            __6: 1, 2, 3, 6__
-            __10: 1, 2, 5, 10__
-            __15: 1, 3, 5, 15__
-            __21: 1, 3, 7, 21__
-            __28: 1, 2, 4, 7, 14, 28__
+           . __1: 1__
+           . __3: 1, 3__
+           . __6: 1, 2, 3, 6__
+           . __10: 1, 2, 5, 10__
+           . __15: 1, 3, 5, 15__
+           . __21: 1, 3, 7, 21__
+           . __28: 1, 2, 4, 7, 14, 28__
  
     We can see that __28__ is the first triangle number to have over five divisors.
 
