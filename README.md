@@ -61,7 +61,7 @@ Find the product __*abc*__.
 10. [Summation of Primes](https://github.com/papilo-cloud/Project_Euler/blob/main/src/summation_of_primes.py) The sum of the primes below __10__ is __2 + 3 + 5 + 7 = 17__.
     Find the sum of all the primes below two million.
 
-11. [Largest Product in a Grid]() In the __20 x 20__ grid below, four numbers along a diagonal line have been marked in red.
+11. [Largest Product in a Grid](https://github.com/papilo-cloud/Project_Euler/blob/main/src/largest_prod_in_a_grid.py) In the __20 x 20__ grid below, four numbers along a diagonal line have been marked in red.
 
             08 02 22 97 38 15 00 40 00 75 04 05 07 78 52 12 50 77 91 08
             49 49 99 40 17 81 18 57 60 87 17 40 98 43 69 48 04 56 62 00
@@ -88,3 +88,5 @@ Find the product __*abc*__.
 
     What is the greatest product of four adjacent numbers in the same direction (up, down, left, right, or diagonally) in the 
     __20 x 20__ grid?
+
+    12. [Highly Divisible Triangular Number](https://github.com/papilo-cloud/Project_Euler/blob/main/src/divisible_triangular_number.py)
