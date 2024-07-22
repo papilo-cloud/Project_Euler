@@ -107,7 +107,7 @@ Find the product __*abc*__.
 
     What is the value of the first triangle number to have over five hundred divisors?
 
-    13. [Large Sum](https://github.com/papilo-cloud/Project_Euler/blob/main/src/large_sum.py) Work out the first ten digits of the sum of the following one-hundred __50__-digit numbers.
+13. [Large Sum](https://github.com/papilo-cloud/Project_Euler/blob/main/src/large_sum.py) Work out the first ten digits of the sum of the following one-hundred __50__-digit numbers.
 
             37107287533902102798797998220837590246510135740250
             46376937677490009712648124896970078050417018260538
