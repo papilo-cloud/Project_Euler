@@ -50,7 +50,7 @@ What is the __10001__ st prime number?
             05886116467109405077541002256983155200055935729725
             71636269561882670428252483600823257530420752963450
 
-Find the thirteen adjacent digits in the __1000__-digit number that have the greatest product. What is the value of this product?
+    Find the thirteen adjacent digits in the __1000__-digit number that have the greatest product. What is the value of this product?
 
 9. [Special Pythagorean Triplet](https://github.com/papilo-cloud/Project_Euler/blob/main/src/pythagoran_triplet.py) A Pythagorean triplet is a set of three natural numbers, __*a < b < c*__, for which,
                                                  __*a<sup>2</sup> + b<sup>2</sup> = c<sup>2</sup>*.__
