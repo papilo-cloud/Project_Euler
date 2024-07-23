@@ -94,13 +94,13 @@ Find the product __*abc*__.
 
     Let us list the factors of the first seven triangle numbers:
         <pre>
-           . __1:__ 1
-           . __3:__ 1, 3
-           . __6:__ 1, 2, 3, 6
-           . __10:__ 1, 2, 5, 10
-           . __15:__ 1, 3, 5, 15
-           . __21:__ 1, 3, 7, 21
-           . __28:__ 1, 2, 4, 7, 14, 28
+            __1:__ 1
+            __3:__ 1, 3
+            __6:__ 1, 2, 3, 6
+            __10:__ 1, 2, 5, 10
+            __15:__ 1, 3, 5, 15
+            __21:__ 1, 3, 7, 21
+            __28:__ 1, 2, 4, 7, 14, 28
            </pre>
  
     We can see that __28__ is the first triangle number to have over five divisors.
@@ -209,3 +209,15 @@ Find the product __*abc*__.
             72107838435069186155435662884062257473692284509516
             20849603980134001723930671666823555245252804609722
             53503534226472524250874054075591789781264330331690
+
+14. [Longest Collatz Sequence](https://github.com/papilo-cloud/Project_Euler/blob/main/src/longest_colatz_sequence.py) The following iterative sequence is defined for the set of positive integers:
+
+    *n = n*/2 (*n* is even)
+    *n = 3n* + 1 (*n* is odd)
+    Using the rule above and starting with __13__, we generate the following sequence:
+
+    It can be seen that this sequence (starting at __13__ and finishing at __1__) contains __10__ terms. Although it has not been proved yet (Collatz Problem), it is thought that all starting numbers finish at __1__.
+
+    Which starting number, under one million, produces the longest chain?
+
+    __NOTE__: Once the chain starts the terms are allowed to go above one million.
