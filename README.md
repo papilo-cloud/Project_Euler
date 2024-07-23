@@ -211,8 +211,10 @@ Find the product __*abc*__.
             53503534226472524250874054075591789781264330331690
 
 14. [Longest Collatz Sequence](https://github.com/papilo-cloud/Project_Euler/blob/main/src/longest_colatz_sequence.py) The following iterative sequence is defined for the set of positive integers:
+
     *n = n*/2 (*n* is even)
     *n = 3n* + 1 (*n* is odd)
+
     Using the rule above and starting with __13__, we generate the following sequence:
 
     It can be seen that this sequence (starting at __13__ and finishing at __1__) contains __10__ terms. Although it has not been proved yet (Collatz Problem), it is thought that all starting numbers finish at __1__.
