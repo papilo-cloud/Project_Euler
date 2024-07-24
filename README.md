@@ -228,3 +228,7 @@ Find the product __*abc*__.
     ![images](https://projecteuler.net/resources/images/0015.png?1678992052)
 
     How many such routes are there through a __20 X 20__ grid?
+
+16. []() __2<sup>15</sup> = 32768__ and the sum of its digits is __3 + 2 + 7 + 6 + 8 = 26.__
+
+    What is the sum of the digits of the number __2<sup>1000</sup>__?
