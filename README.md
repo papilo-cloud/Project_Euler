@@ -222,3 +222,9 @@ Find the product __*abc*__.
     Which starting number, under one million, produces the longest chain?
 
     __NOTE__: Once the chain starts the terms are allowed to go above one million.
+
+15. [Lattice Paths](https://github.com/papilo-cloud/Project_Euler/blob/main/src/lattice_path.py) Starting in the top left corner of a __2 X 2__    grid, and only being able to move to the right and down, there are exactly __6__ routes to the bottom right corner.
+
+            ![images](https://projecteuler.net/resources/images/0015.png?1678992052)
+
+    How many such routes are there through a __20 X 20__ grid?
