@@ -16,4 +16,4 @@ def lattice_path(k, n):
     routes = factorial(n) // (factorial(k) * factorial(n - k))
     
     print(f'routes {routes}')
-lattice_path(20, 20)
+lattice_path(3, 6)
