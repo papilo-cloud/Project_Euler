@@ -232,3 +232,10 @@ Find the product __*abc*__.
 16. [Power Digit Sum](https://github.com/papilo-cloud/Project_Euler/blob/main/src/power_digit_sum.py) __2<sup>15</sup> = 32768__ and the sum of its digits is __3 + 2 + 7 + 6 + 8 = 26.__
 
     What is the sum of the digits of the number __2<sup>1000</sup>__?
+
+17. [Number Letter Counts](https://github.com/papilo-cloud/Project_Euler/blob/main/src/letter_count.py) If the numbers __1__ to __5__ are written out in words: one, two, three, four, five, then there are __3 + 3 + 5 + 4 + 4 = 19__ letters used in total.
+
+    If all the numbers from __1__ to __1000__ (one thousand) inclusive were written out in words, how many letters would be used?
+
+
+    NOTE: Do not count spaces or hyphens. For example, __342__ (three hundred and forty-two) contains __23__ letters and __115__ (one hundred and fifteen) contains __20__ letters. The use of "and" when writing out numbers is in compliance with British usage.
