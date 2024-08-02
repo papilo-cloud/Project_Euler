@@ -246,3 +246,10 @@ Find the product __*abc*__.
     and the sum of the digits in the number __10!__ is __3 + 6 + 2 + 8 + 8 + 0 + 0 = 27__.
 
     Find the sum of the digits in the number __100!__.
+
+21. [Amicable Numbers](https://github.com/papilo-cloud/Project_Euler/blob/main/src/amicable_numbers.py) Let be defined as the sum of proper divisors of (numbers less than which divide evenly into ).
+    If and , where , then and are an amicable pair and each of and are called amicable numbers.
+
+    For example, the proper divisors of __220__ are __1, 2, 4, 5, 10, 11, 20, 22, 44, 55__ and __110__; therefore __*d*(220)__ = __284__. The proper divisors of __284__ are __1, 2, 4, 71__ and __142__; so __*d*(284)__ = __220__.
+
+    Evaluate the sum of all the amicable numbers under __10000__.
