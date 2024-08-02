@@ -239,3 +239,10 @@ Find the product __*abc*__.
 
 
     NOTE: Do not count spaces or hyphens. For example, __342__ (three hundred and forty-two) contains __23__ letters and __115__ (one hundred and fifteen) contains __20__ letters. The use of "and" when writing out numbers is in compliance with British usage.
+
+20. [Factorial Digit Sum](https://github.com/papilo-cloud/Project_Euler/blob/main/src/factorial_digit_sum.py) *n*! means *n* x (*n* - 1) x ... x 3 x 2 x 1.
+
+    For example, __10!__ = __10 x 9 x ... x 3 x 2 x 1 = 3628800__,
+    and the sum of the digits in the number __10!__ is __3 + 6 + 2 + 8 + 8 + 0 + 0 = 27__.
+
+    Find the sum of the digits in the number __100!__.
