@@ -5,7 +5,7 @@ def even_fibonacci_numbers(num):
     count = 1
     sum = 0
     while count < num:
-        if current_fib % 2 == 0:
+        if current_fib % 2 == 0 and (prev_fib+sum < num):
             sum += current_fib
             
         print(prev_fib, end=" ",)    
